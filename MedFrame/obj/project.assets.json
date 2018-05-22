@@ -1863,23 +1863,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\devco\\.nuget\\packages\\": {},
+    "C:\\Users\\devyn.cyphers\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Code\\MediatrFramework\\MedFrame\\MedFrame.csproj",
+      "projectUniqueName": "c:\\Source\\MedFrame\\MedFrame\\MedFrame.csproj",
       "projectName": "MedFrame",
-      "projectPath": "c:\\Code\\MediatrFramework\\MedFrame\\MedFrame.csproj",
-      "packagesPath": "C:\\Users\\devco\\.nuget\\packages\\",
-      "outputPath": "c:\\Code\\MediatrFramework\\MedFrame\\obj\\",
+      "projectPath": "c:\\Source\\MedFrame\\MedFrame\\MedFrame.csproj",
+      "packagesPath": "C:\\Users\\devyn.cyphers\\.nuget\\packages\\",
+      "outputPath": "c:\\Source\\MedFrame\\MedFrame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\devco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\devyn.cyphers\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1887,6 +1887,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://teamcityws.cen.centeva.com/guestAuth/app/nuget/v1/FeedService.svc/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

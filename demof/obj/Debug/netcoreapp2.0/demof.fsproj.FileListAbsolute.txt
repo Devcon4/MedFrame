@@ -1,0 +1,8 @@
+C:\Source\MedFrame\demof\bin\Debug\netcoreapp2.0\demof.deps.json
+C:\Source\MedFrame\demof\bin\Debug\netcoreapp2.0\demof.runtimeconfig.json
+C:\Source\MedFrame\demof\bin\Debug\netcoreapp2.0\demof.runtimeconfig.dev.json
+C:\Source\MedFrame\demof\bin\Debug\netcoreapp2.0\demof.dll
+C:\Source\MedFrame\demof\bin\Debug\netcoreapp2.0\demof.pdb
+C:\Source\MedFrame\demof\obj\Debug\netcoreapp2.0\demof.fsprojAssemblyReference.cache
+C:\Source\MedFrame\demof\obj\Debug\netcoreapp2.0\demof.dll
+C:\Source\MedFrame\demof\obj\Debug\netcoreapp2.0\demof.pdb
