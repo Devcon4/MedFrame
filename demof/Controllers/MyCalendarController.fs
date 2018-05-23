@@ -13,4 +13,4 @@ type MyCalendarController(mediator: IMediator) =
     inherit Controller()
     let _mediator = mediator
     [<HttpGet("{id}")>]
-    let Get id = _mediator.Send(new GetBranchScheduleItems(id))
+    member this.Get id = _mediator.Send(new GetBranchScheduleItems(id))

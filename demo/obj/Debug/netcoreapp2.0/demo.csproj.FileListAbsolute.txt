@@ -20,3 +20,14 @@ C:\Code\MediatrFramework\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfoInputs.ca
 C:\Code\MediatrFramework\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfo.cs
 C:\Code\MediatrFramework\demo\obj\Debug\netcoreapp2.0\demo.dll
 C:\Code\MediatrFramework\demo\obj\Debug\netcoreapp2.0\demo.pdb
+C:\Source\MedFrame\demo\bin\Debug\netcoreapp2.0\demo.deps.json
+C:\Source\MedFrame\demo\bin\Debug\netcoreapp2.0\demo.runtimeconfig.json
+C:\Source\MedFrame\demo\bin\Debug\netcoreapp2.0\demo.runtimeconfig.dev.json
+C:\Source\MedFrame\demo\bin\Debug\netcoreapp2.0\demo.dll
+C:\Source\MedFrame\demo\bin\Debug\netcoreapp2.0\demo.pdb
+C:\Source\MedFrame\demo\obj\Debug\netcoreapp2.0\demo.csprojAssemblyReference.cache
+C:\Source\MedFrame\demo\obj\Debug\netcoreapp2.0\demo.csproj.CoreCompileInputs.cache
+C:\Source\MedFrame\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfoInputs.cache
+C:\Source\MedFrame\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfo.cs
+C:\Source\MedFrame\demo\obj\Debug\netcoreapp2.0\demo.dll
+C:\Source\MedFrame\demo\obj\Debug\netcoreapp2.0\demo.pdb
