@@ -1,4 +1,4 @@
-namespace demof
+namespace Demof
 
 open System
 open System.Collections.Generic

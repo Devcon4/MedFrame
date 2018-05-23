@@ -1,4 +1,4 @@
-﻿namespace demof.Controllers
+﻿namespace Demof.Controllers
 
 open System
 open System.Collections.Generic

@@ -1,24 +1,26 @@
+namespace demof
 
 open System
 open System.Collections.Generic
-open MediatR
+open System.Linq
+open System.Threading
 open System.Threading.Tasks
-open Microsoft.AspNetCore.Mvc
+open MediatR
+open Microsoft.EntityFrameworkCore
 
-type AgendaScheduleItem (id: int) = 
-    member this.id = id
-    
+type AgendaScheduleItem(id: int, name: string) = 
+    member this.Id = id
+    member this.Name = name
 
-type GetBranchScheduleItemsHandler =
-    let agendaType id = { new Object() with member id = id }
-    let Handle request cancellationToken = async {
-        return [new AgendaScheduleItem(request)]
-    }
+type GetBranchScheduleItems(id: int) =
+    interface IRequest<AgendaScheduleItem>
+    member this.Id = id
+
+type GetBranchScheduleItemsHandler() =
+    interface IRequestHandler<GetBranchScheduleItems, AgendaScheduleItem> with
+        member this.Handle (request: GetBranchScheduleItems, cancellationToken: CancellationToken) =
+            async { return new AgendaScheduleItem(request.Id, "f#") } |> Async.StartAsTask
 
 
 
-[<Route("api/[controller]")>]
-type MyCalendarController(mediator: IMediator) =
-    inherit Controller()
-    let _mediator = mediator
-    member this.Get id = async { return _mediator.Send |> new GetBranchScheduleItems(id) }
+

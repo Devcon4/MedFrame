@@ -6,3 +6,11 @@ C:\Source\MedFrame\demof\bin\Debug\netcoreapp2.0\demof.pdb
 C:\Source\MedFrame\demof\obj\Debug\netcoreapp2.0\demof.fsprojAssemblyReference.cache
 C:\Source\MedFrame\demof\obj\Debug\netcoreapp2.0\demof.dll
 C:\Source\MedFrame\demof\obj\Debug\netcoreapp2.0\demof.pdb
+C:\Code\MediatrFramework\demof\obj\Debug\netcoreapp2.0\demof.fsprojAssemblyReference.cache
+C:\Code\MediatrFramework\demof\obj\Debug\netcoreapp2.0\demof.dll
+C:\Code\MediatrFramework\demof\obj\Debug\netcoreapp2.0\demof.pdb
+C:\Code\MediatrFramework\demof\bin\Debug\netcoreapp2.0\demof.deps.json
+C:\Code\MediatrFramework\demof\bin\Debug\netcoreapp2.0\demof.runtimeconfig.json
+C:\Code\MediatrFramework\demof\bin\Debug\netcoreapp2.0\demof.runtimeconfig.dev.json
+C:\Code\MediatrFramework\demof\bin\Debug\netcoreapp2.0\demof.dll
+C:\Code\MediatrFramework\demof\bin\Debug\netcoreapp2.0\demof.pdb
